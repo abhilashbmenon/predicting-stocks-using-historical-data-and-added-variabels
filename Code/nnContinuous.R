@@ -1,4 +1,3 @@
-setwd("C://PhD//CPSC8650//Project//Data")
 library("neuralnet")
 set.seed(1516)
 snpData=read.csv(file="SNPzScore.csv",header=TRUE)
