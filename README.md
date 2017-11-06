@@ -1,1 +1,1 @@
-# predicting-stocks-using-historical-data-and-added-variabels
+# predicting-stocks-using-historical-data-and-added-variables
